@@ -1,13 +1,10 @@
-# ToDoList-Ekran-Tasarim
-Balsamiq Wireframe incelemesi için örnek bir mobil ToDo projesi ekran tasarımları yapıldı.
-Detaylar şu şekilde: 
- 
-Balsamiq Wireframe Kullanım Dokümanı
-Proje Adı: ToDoList Uygulaması Wireframe
-Hazırlayan: Zeynep Gündüz
+# ToDo List Ekran Tasarim
+Balsamiq Wireframe incelemesi için , örnek bir mobil ToDo projesinde ekran tasarımı yapıldı.
+
+<img src="./Images/ToDoList_DashboardScreen.png"  width="640">
 
 ## Amaç
-Bu wireframe dokümanı, kullanıcıların hatırlatıcılarını yönetebileceği bir ToDo (Yapılacaklar) uygulamasının arayüzünü, ekranlar arası akışını ve temel etkileşimlerini planlamak için hazırlanmıştır.
+Bu doküman, kullanıcıların hatırlatıcılarını yönetebileceği bir ToDo (Yapılacaklar) uygulamasının arayüzünü, ekranlar arası akışını ve temel etkileşimlerini planlamak için hazırlanmıştır.
 
 ## Kullanılan Balsamiq Bileşenleri
 - Bileşen	Kullanım Amacı
