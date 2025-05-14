@@ -26,11 +26,11 @@ Ekran No	Ekran Adı	Açıklama
   * 2-1	Dashboard Filter Screen	Ada göre filtreleme gibi seçenekler.
   * 2-2	Dashboard Sliding Menu	Menüden değerlendirme, paylaşım gibi işlemler.
 - 3	Add Screen	Yeni hatırlatma ekleme ekranı.
- * 3-1	Add Push Notification	Bildirim ayarı belirleme.
- * 3-2	Add Frequency	Günlük, haftalık, özel gibi tekrar ayarları.
+  * 3-1	Add Push Notification	Bildirim ayarı belirleme.
+  * 3-2	Add Frequency	Günlük, haftalık, özel gibi tekrar ayarları.
 - 4	Detail Screen	Hatırlatma detaylarını gösterir.
 - 5	Edit Screen	Mevcut hatırlatmayı güncelleme ekranı.
- * 5-1	Edit - Delete Popup	Silme işlemi için onay pop-up’ı.
+  * 5-1	Edit - Delete Popup	Silme işlemi için onay pop-up’ı.
 
 ## Ekran Geçişleri (Wireflow)
 - **Splash** → *Dashboard* (otomatik yönlendirme)
